@@ -227,6 +227,20 @@
       "paths": {
         "line": "M4 17V19C4 20.1046 4.89543 21 6 21H18C19.1046 21 20 20.1046 20 19V17M12 3V17M12 17L17 12M12 17L7 12 "
       }
+    },
+    {
+      "name": "Upload",
+      "category": "Interface",
+      "tags": [
+        "upload",
+        "cloud",
+        "arrow-up",
+        "export"
+      ],
+      "viewBox": "0 0 24 24",
+      "paths": {
+        "line": "M4 17V19C4 20.1046 4.89543 21 6 21H18C19.1046 21 20 20.1046 20 19V17M12 17V3M12 3L17 8M12 3L7 8 "
+      }
     }
   ]
 }
