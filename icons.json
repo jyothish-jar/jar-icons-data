@@ -890,6 +890,18 @@
       "paths": {
         "line": "M13 16L17 12L13 8M8 16L12 12L8 8 "
       }
+    },
+    {
+      "name": "Backward Navigation",
+      "category": "Interface",
+      "tags": [
+        "backward",
+        "navigation"
+      ],
+      "viewBox": "0 0 24 24",
+      "paths": {
+        "line": "M17 16L13 12L17 8M12 16L8 12L12 8 "
+      }
     }
   ]
 }
