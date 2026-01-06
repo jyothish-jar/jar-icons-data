@@ -931,6 +931,21 @@
       "paths": {
         "line": "M4 14H10V20M20 14H14V20M14 4V10H20M10 4V10H4M21 3L15 9M3 21L9 15M3 3L9 9M15 15L21 21 "
       }
+    },
+    {
+      "name": "Right Arrow",
+      "category": "Interface",
+      "tags": [
+        "right",
+        "arrow",
+        "direction",
+        "nav",
+        "move"
+      ],
+      "viewBox": "0 0 24 24",
+      "paths": {
+        "line": "M8 12H16M16 12L12 8M16 12L12 16M22 12C22 17.5228 17.5228 22 12 22C6.47715 22 2 17.5228 2 12C2 6.47715 6.47715 2 12 2C17.5228 2 22 6.47715 22 12Z "
+      }
     }
   ]
 }
