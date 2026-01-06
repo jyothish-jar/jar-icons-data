@@ -829,6 +829,18 @@
       "paths": {
         "line": "M15 3H21V9M3 15V21H9M20 4L14 10M4 20L10 14 "
       }
+    },
+    {
+      "name": "Collapse",
+      "category": "Interface",
+      "tags": [
+        "collapse",
+        "utilities"
+      ],
+      "viewBox": "0 0 24 24",
+      "paths": {
+        "line": "M4 14H10V20M14 4V10H20M21 3L15 9M3 21L9 15 "
+      }
     }
   ]
 }
