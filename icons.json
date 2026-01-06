@@ -902,6 +902,18 @@
       "paths": {
         "line": "M17 16L13 12L17 8M12 16L8 12L12 8 "
       }
+    },
+    {
+      "name": "Expand 2",
+      "category": "Interface",
+      "tags": [
+        "expand",
+        "arrows"
+      ],
+      "viewBox": "0 0 24 24",
+      "paths": {
+        "line": "M15 3H21V9M9 3H3V9M3 15V21H9M21 15V21H15M20 4L14 10M4 4L10 10M4 20L10 14M20 20L14 14 "
+      }
     }
   ]
 }
