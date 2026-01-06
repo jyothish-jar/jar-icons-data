@@ -805,6 +805,18 @@
       "paths": {
         "line": "M4 6H20M4 11H11M4 16H8M17 9V18M17 18L14 15M17 18L20 15 "
       }
+    },
+    {
+      "name": "Sort Ascending",
+      "category": "Interface",
+      "tags": [
+        "sort",
+        "ascending"
+      ],
+      "viewBox": "0 0 24 24",
+      "paths": {
+        "line": "M4 8H8M4 13H11M4 18H20M17 6V15M17 15L14 12M17 15L20 12 "
+      }
     }
   ]
 }
