@@ -132,6 +132,21 @@
       "paths": {
         "line": "M14 8L10 12L14 16 "
       }
+    },
+    {
+      "name": "Chevron Right",
+      "category": "Interface",
+      "tags": [
+        "chevron",
+        "right",
+        "arrow",
+        "expand",
+        "collapse"
+      ],
+      "viewBox": "0 0 24 24",
+      "paths": {
+        "line": "M10 16L14 12L10 8 "
+      }
     }
   ]
 }
