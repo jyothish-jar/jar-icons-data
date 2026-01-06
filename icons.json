@@ -269,6 +269,22 @@
       "paths": {
         "line": "M16 7L17 8M4 18V21H7L21 7L18 4L4 18Z "
       }
+    },
+    {
+      "name": "Edit 2",
+      "category": "Interface",
+      "tags": [
+        "edit",
+        "pencil",
+        "pen",
+        "write",
+        "modify",
+        "update"
+      ],
+      "viewBox": "0 0 24 24",
+      "paths": {
+        "line": "M14 4H5C3.89543 4 3 4.89543 3 6V20C3 21.1046 3.89543 22 5 22H19C20.1046 22 21 21.1046 21 20V11M17 6L18 7M10 12V15H13L22 6L19 3L10 12Z "
+      }
     }
   ]
 }
