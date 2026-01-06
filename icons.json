@@ -817,6 +817,18 @@
       "paths": {
         "line": "M4 8H8M4 13H11M4 18H20M17 6V15M17 15L14 12M17 15L20 12 "
       }
+    },
+    {
+      "name": "Expand",
+      "category": "Interface",
+      "tags": [
+        "expand",
+        "utilities"
+      ],
+      "viewBox": "0 0 24 24",
+      "paths": {
+        "line": "M15 3H21V9M3 15V21H9M20 4L14 10M4 20L10 14 "
+      }
     }
   ]
 }
