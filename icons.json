@@ -213,6 +213,20 @@
       "paths": {
         "line": "M2 15V20L2.49134 18.7717C3.40252 16.4937 5.60877 15 8.0622 15H14V20L22 12L14 4V9H8C4.68629 9 2 11.6863 2 15Z "
       }
+    },
+    {
+      "name": "Download",
+      "category": "Interface",
+      "tags": [
+        "download",
+        "cloud",
+        "arrow-down",
+        "import"
+      ],
+      "viewBox": "0 0 24 24",
+      "paths": {
+        "line": "M4 17V19C4 20.1046 4.89543 21 6 21H18C19.1046 21 20 20.1046 20 19V17M12 3V17M12 17L17 12M12 17L7 12 "
+      }
     }
   ]
 }
